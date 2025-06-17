@@ -1,6 +1,6 @@
 # Ziya Academy Static Website
 
-![Ziya Academy Preview](images/preview.jpg)
+![Ziya Academy Preview](images/preview.png)
 
 A responsive, SEO-friendly static website designed and developed for **Ziya Academy**—an institution offering school-level coaching, NIOS/IGNOU support, software training, and IT services.
 
